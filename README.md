@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">📊 Customer Churn Analysis & Prediction</h1>
+  <h1 align="center"> Customer Churn Analysis & Prediction</h1>
   <p align="center">
     <em>A comprehensive machine learning project to analyze and predict customer churn using real-world telecom data</em>
   </p>
@@ -240,3 +240,6 @@ Contributions are welcome! Here's how you can help:
 <p align="center">
   <strong>⭐ If you found this project useful, please give it a star! ⭐</strong>
 </p>
+
+<img width="753" height="420" alt="visuals" src="https://github.com/user-attachments/assets/58c41c47-5e97-4455-add5-c0623f0fb92d" />
+
